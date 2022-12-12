@@ -4,6 +4,7 @@ public class Homework1_Task5 {
         System.out.println(isPalindrome(s));
 
     }
+
     public static boolean isPalindrome(String s) {
         int l = 0;
         int r = s.length() - 1;
