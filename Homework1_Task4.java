@@ -52,7 +52,7 @@ public class Homework1_Task4 {
         }
     }
 }
-
+//-------------------------Этот код гораздо проще, но с третим кейсом не корректно работает, не убирает лишний пробел----------------
 //    public static String reverseName(String name) {
 //
 //        name = name.trim();
