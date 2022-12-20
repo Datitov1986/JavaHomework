@@ -1,6 +1,7 @@
 package Homework3;
 
 import java.util.ArrayList;
+
 // На вход приходят два ArrayList<Integer> напишите метод, который проверяет два массива на равенство.
 // Нужно реализовать алгоритм, не использовать метод equals.
 public class Homework3_Task1 {
