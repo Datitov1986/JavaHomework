@@ -4,7 +4,7 @@ public class Homework4_Task3 {
 
     public static void main(String[] args) {
 
-        public boolean isSymmetric(TreeNode root){
+        public boolean isSymmetric (TreeNode root){
             Stack<TreeNode> stack = new Stack<>();
             stack.add(root);
             stack.add(root);
